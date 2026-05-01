@@ -1,6 +1,6 @@
 {
   "name": "@umastro12/lunardesign",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "description": "An htmx-like typescript library",
   "main": "index.ts",
 
